@@ -33,3 +33,10 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1675-magnetic-force-between-two-balls) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+<!---LeetCode Topics End-->
