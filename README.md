@@ -38,5 +38,6 @@ This folder includes the leetcode solutions.
 ## Database
 |  |
 | ------- |
+| [1153-product-sales-analysis-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
