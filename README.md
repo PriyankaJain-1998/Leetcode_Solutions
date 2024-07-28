@@ -46,6 +46,7 @@ This folder includes the leetcode solutions.
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [2087-confirmation-rate](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2087-confirmation-rate) |
 ## Array
 |  |
 | ------- |
