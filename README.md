@@ -39,6 +39,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1415-students-and-examinations](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1415-students-and-examinations) |
