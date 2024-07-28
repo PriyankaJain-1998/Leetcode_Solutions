@@ -38,6 +38,7 @@ This folder includes the leetcode solutions.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0197-rising-temperature) |
 | [1153-product-sales-analysis-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
