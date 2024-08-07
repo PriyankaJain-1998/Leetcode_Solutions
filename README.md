@@ -82,4 +82,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0007-reverse-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
