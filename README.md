@@ -78,4 +78,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
