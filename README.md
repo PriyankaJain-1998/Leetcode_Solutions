@@ -61,6 +61,7 @@ This folder includes the leetcode solutions.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ This folder includes the leetcode solutions.
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +80,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -92,4 +95,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
