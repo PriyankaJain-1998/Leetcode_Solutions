@@ -55,6 +55,7 @@ This folder includes the leetcode solutions.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
@@ -66,6 +67,7 @@ This folder includes the leetcode solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
