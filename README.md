@@ -73,6 +73,7 @@ This folder includes the leetcode solutions.
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -92,6 +93,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0441-arranging-coins](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 ## Bit Manipulation
 |  |
 | ------- |
