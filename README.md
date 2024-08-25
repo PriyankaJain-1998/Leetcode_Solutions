@@ -153,17 +153,24 @@ This folder includes the leetcode solutions.
 ## Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
