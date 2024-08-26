@@ -114,6 +114,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -184,8 +185,10 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
