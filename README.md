@@ -172,6 +172,7 @@ This folder includes the leetcode solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -181,6 +182,7 @@ This folder includes the leetcode solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
@@ -190,6 +192,7 @@ This folder includes the leetcode solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
