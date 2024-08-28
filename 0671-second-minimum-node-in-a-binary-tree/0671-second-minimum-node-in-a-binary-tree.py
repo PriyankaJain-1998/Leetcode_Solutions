@@ -14,6 +14,5 @@ class Solution:
             dfs(node.right)
         dfs(root)
         ele = sorted(list(set(ele)))
-        print(ele)
         if len(ele)==1: return -1
         else: return ele[1]
