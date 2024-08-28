@@ -66,6 +66,7 @@ This folder includes the leetcode solutions.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +177,7 @@ This folder includes the leetcode solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,6 +192,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,4 +206,8 @@ This folder includes the leetcode solutions.
 | [0143-reorder-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
