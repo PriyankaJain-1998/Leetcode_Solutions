@@ -8,18 +8,22 @@ class Solution:
     def sumOfLeftLeaves(self, root: Optional[TreeNode]) -> int:
         ele = []
         def dfs(node):
-            # if node: 
-            #     if node.left:
-            #         ele.append(node.left.val)
-            #         dfs(node.left)
-            #     dfs(node.right)
 
-            if not node: return 0
-            if node.left and not node.left.left and not node.left.right:
-                return node.left.val + dfs(node.right) + dfs(node.left)
-            # Recursively call dfs on both left and right children
-            return dfs(node.left) + dfs(node.right)
-        # dfs(root)
-        return dfs(root)
+            # ------ SOLUTION 1
+            if node: 
+                if node.left and not node.left.left and not node.left.right:
+                    ele.append(node.left.val)
+                dfs(node.left)
+                dfs(node.right)
+        dfs(root)
+        return sum(ele)
+
+        #-----------------------
+        # ---------SOLUTION 2
+        #     if not node: return 0
+        #     if node.left and not node.left.left and not node.left.right:
+        #         return node.left.val + dfs(node.right) + dfs(node.left)
+        #     return dfs(node.left) + dfs(node.right)
+        # return dfs(root)
         
     
