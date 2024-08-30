@@ -233,4 +233,13 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
