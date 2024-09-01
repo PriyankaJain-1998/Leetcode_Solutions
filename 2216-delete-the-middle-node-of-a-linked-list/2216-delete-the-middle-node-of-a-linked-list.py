@@ -13,9 +13,7 @@ class Solution:
             dfs(node.next)
 
         dfs(head)
-        print(ele)
         del ele[int(len(ele)/2)]
-        print(ele)
 
         curr = dummy = ListNode(0)
         for i in ele:
