@@ -13,6 +13,7 @@ class Solution:
                 pnum = stack.pop()
                 pstr = stack.pop()
                 res = pstr+pnum*res
-            else: res +=i
+            else: 
+                res +=i
         return res
         
