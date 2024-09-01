@@ -68,6 +68,7 @@ This folder includes the leetcode solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -243,14 +244,17 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Sliding Window
 |  |
