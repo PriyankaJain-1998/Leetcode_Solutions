@@ -12,7 +12,6 @@ class Solution:
             if not node: return
             dfs(node.next)
             ele.append(node.val)
-            # dfs(node.right)
 
         dfs(head)
 
@@ -20,7 +19,4 @@ class Solution:
         for e in ele:
             cur.next = ListNode(e)
             cur = cur.next
-        return dummy.next
-        # print(ele)
-        # return ele
-        
+        return dummy.next       
