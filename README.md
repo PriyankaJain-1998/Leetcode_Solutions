@@ -194,6 +194,7 @@ This folder includes the leetcode solutions.
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -208,6 +209,7 @@ This folder includes the leetcode solutions.
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
@@ -225,6 +227,7 @@ This folder includes the leetcode solutions.
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
