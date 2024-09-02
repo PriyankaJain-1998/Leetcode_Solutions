@@ -197,6 +197,7 @@ This folder includes the leetcode solutions.
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
@@ -210,6 +211,7 @@ This folder includes the leetcode solutions.
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -223,6 +225,7 @@ This folder includes the leetcode solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Simulation
