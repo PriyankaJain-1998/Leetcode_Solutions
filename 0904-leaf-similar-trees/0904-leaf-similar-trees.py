@@ -10,7 +10,7 @@ class Solution:
         def dfs(node):
             
             if not node: return 
-            if node.left == None and node.right == None:
+            if not node.left and not node.right:
                 ele.append(node.val)
             dfs(node.left)
             dfs(node.right)
@@ -19,6 +19,5 @@ class Solution:
         ele1 = dfs(root1)
         ele = []
         ele2 = dfs(root2)
-        print(ele1, ele2)
         if ele1==ele2: return True
         else: return False
