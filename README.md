@@ -190,6 +190,7 @@ This folder includes the leetcode solutions.
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -201,6 +202,7 @@ This folder includes the leetcode solutions.
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -215,6 +217,7 @@ This folder includes the leetcode solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -233,6 +236,7 @@ This folder includes the leetcode solutions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
