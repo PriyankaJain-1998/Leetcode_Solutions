@@ -123,6 +123,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 ## Recursion
 |  |
@@ -147,6 +148,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
