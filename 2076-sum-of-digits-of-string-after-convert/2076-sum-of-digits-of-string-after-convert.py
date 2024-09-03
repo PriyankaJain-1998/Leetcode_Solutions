@@ -6,7 +6,6 @@ class Solution:
         for i in range(len(s)):
             string_number_code+=str(alphabet[s[i]])
         digit_sum = 0
-        print(string_number_code)
         while(k>0):
             while(string_number_code!='0'):
                 digit_sum += int(string_number_code)%10
