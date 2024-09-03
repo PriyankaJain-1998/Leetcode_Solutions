@@ -6,13 +6,21 @@ class Solution:
         for i in range(len(s)):
             string_number_code+=str(alphabet[s[i]])
         digit_sum = 0
-        while(k>0):
-            while(string_number_code!='0'):
-                digit_sum += int(string_number_code)%10
-                string_number_code = str(int(string_number_code)//10)
-            k-=1
-            if k != 0: 
-                string_number_code = str(digit_sum)
-                digit_sum = 0
+        # while(k>0):
+        #     while(string_number_code!='0'):
+        #         digit_sum += int(string_number_code)%10
+        #         string_number_code = str(int(string_number_code)//10)
+        #     k-=1
+        #     if k != 0: 
+        #         string_number_code = str(digit_sum)
+        #         digit_sum = 0
         
-        return digit_sum
+        # return digit_sum
+
+        for _ in range(k):
+            digit_sum = 0
+            for i in range(len(string_number_code)):
+                digit_sum+=int(string_number_code[i])
+
+            string_number_code = str(digit_sum)
+        return int(string_number_code)
