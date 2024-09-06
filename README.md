@@ -55,6 +55,7 @@ This folder includes the leetcode solutions.
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
@@ -108,6 +109,7 @@ This folder includes the leetcode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
@@ -140,6 +142,7 @@ This folder includes the leetcode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
