@@ -190,6 +190,7 @@ This folder includes the leetcode solutions.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
@@ -291,6 +292,7 @@ This folder includes the leetcode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
@@ -335,6 +337,7 @@ This folder includes the leetcode solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
