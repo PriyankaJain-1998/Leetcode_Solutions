@@ -37,11 +37,9 @@ class Solution:
         for i in s:
             if i not in s_result:
                 s_result += i
-                print(s_result)
             else:
                 s_result = s_result[s_result.index(i)+1:] + i
-                print("*",s_result)
-                
+
             if len(s_result) > count:
                 count = len(s_result)
         
