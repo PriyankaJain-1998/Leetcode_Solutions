@@ -75,6 +75,7 @@ This folder includes the leetcode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -129,6 +130,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
@@ -167,6 +169,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
