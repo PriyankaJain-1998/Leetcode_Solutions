@@ -6,5 +6,4 @@ class Solution:
             temp = nums[i]*nums[i-1]*nums[i-2]
             if temp>triplet_sum:
                 triplet_sum = temp
-        print(triplet_sum)
         return triplet_sum
