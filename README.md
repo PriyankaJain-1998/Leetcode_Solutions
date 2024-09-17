@@ -96,6 +96,7 @@ This folder includes the leetcode solutions.
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -223,6 +224,7 @@ This folder includes the leetcode solutions.
 | [0389-find-the-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0812-rotate-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -396,4 +398,5 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
