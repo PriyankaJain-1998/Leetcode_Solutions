@@ -100,6 +100,7 @@ This folder includes the leetcode solutions.
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
@@ -181,6 +182,7 @@ This folder includes the leetcode solutions.
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
 |  |
