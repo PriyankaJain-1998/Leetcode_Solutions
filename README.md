@@ -82,6 +82,7 @@ This folder includes the leetcode solutions.
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
+| [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -137,6 +138,7 @@ This folder includes the leetcode solutions.
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
+| [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -351,6 +353,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
