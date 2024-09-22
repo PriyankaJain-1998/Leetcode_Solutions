@@ -106,6 +106,7 @@ This folder includes the leetcode solutions.
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -172,6 +173,7 @@ This folder includes the leetcode solutions.
 | [0389-find-the-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Recursion
 |  |
 | ------- |
@@ -387,6 +389,7 @@ This folder includes the leetcode solutions.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
