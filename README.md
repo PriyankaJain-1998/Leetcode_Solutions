@@ -237,6 +237,7 @@ This folder includes the leetcode solutions.
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0551-student-attendance-record-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
