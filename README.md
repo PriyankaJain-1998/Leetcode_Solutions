@@ -236,6 +236,7 @@ This folder includes the leetcode solutions.
 | [1764-maximum-repeating-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1764-maximum-repeating-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
@@ -384,6 +385,7 @@ This folder includes the leetcode solutions.
 | [0643-maximum-average-subarray-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
