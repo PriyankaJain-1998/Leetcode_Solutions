@@ -10,7 +10,6 @@ class Solution:
                 check.append(colors[0])
                 check.append(colors[1])
 
-            print(check)
             if ''.join(map(str,check)) in a:
                 count+=1
 
