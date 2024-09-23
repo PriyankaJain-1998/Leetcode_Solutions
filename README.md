@@ -89,6 +89,7 @@ This folder includes the leetcode solutions.
 | [0724-find-pivot-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
+| [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -240,6 +241,7 @@ This folder includes the leetcode solutions.
 | [0434-number-of-segments-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0812-rotate-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0812-rotate-string) |
+| [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -349,6 +351,7 @@ This folder includes the leetcode solutions.
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -435,4 +438,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
