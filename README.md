@@ -177,6 +177,7 @@ This folder includes the leetcode solutions.
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 ## Bit Manipulation
 |  |
@@ -190,6 +191,7 @@ This folder includes the leetcode solutions.
 | [0461-hamming-distance](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 ## Recursion
