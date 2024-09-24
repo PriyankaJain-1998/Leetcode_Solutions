@@ -113,6 +113,7 @@ This folder includes the leetcode solutions.
 | [3463-alternating-groups-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3582-find-indices-of-stable-mountains](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
 | ------- |
