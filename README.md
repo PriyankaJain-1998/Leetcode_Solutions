@@ -160,6 +160,7 @@ This folder includes the leetcode solutions.
 | [0171-excel-sheet-column-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0441-arranging-coins) |
@@ -330,6 +331,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -455,4 +457,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
