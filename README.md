@@ -263,6 +263,7 @@ This folder includes the leetcode solutions.
 | [0020-valid-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -445,4 +446,12 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
