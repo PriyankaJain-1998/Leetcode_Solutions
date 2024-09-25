@@ -78,6 +78,7 @@ This folder includes the leetcode solutions.
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -292,6 +293,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0101-symmetric-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -333,6 +335,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0101-symmetric-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -447,11 +450,13 @@ This folder includes the leetcode solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
