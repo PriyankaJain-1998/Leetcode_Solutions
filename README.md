@@ -296,6 +296,7 @@ This folder includes the leetcode solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -316,6 +317,7 @@ This folder includes the leetcode solutions.
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -338,6 +340,7 @@ This folder includes the leetcode solutions.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -368,6 +371,7 @@ This folder includes the leetcode solutions.
 | [0101-symmetric-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
