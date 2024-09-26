@@ -310,6 +310,7 @@ This folder includes the leetcode solutions.
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
@@ -332,6 +333,7 @@ This folder includes the leetcode solutions.
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -382,6 +384,7 @@ This folder includes the leetcode solutions.
 | [0112-path-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Hash Table
