@@ -309,6 +309,7 @@ This folder includes the leetcode solutions.
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -332,6 +333,7 @@ This folder includes the leetcode solutions.
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
+| [0563-binary-tree-tilt](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -357,6 +359,7 @@ This folder includes the leetcode solutions.
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0563-binary-tree-tilt](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
