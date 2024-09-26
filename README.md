@@ -268,6 +268,7 @@ This folder includes the leetcode solutions.
 | [0812-rotate-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [1283-reformat-date](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1283-reformat-date) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
