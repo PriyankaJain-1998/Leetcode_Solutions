@@ -17,4 +17,3 @@ class Solution:
         ele = []
         dfs(root)
         return ele
-        
