@@ -290,6 +290,7 @@ This folder includes the leetcode solutions.
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -312,6 +313,7 @@ This folder includes the leetcode solutions.
 | [0563-binary-tree-tilt](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
@@ -336,6 +338,7 @@ This folder includes the leetcode solutions.
 | [0563-binary-tree-tilt](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0563-binary-tree-tilt) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
