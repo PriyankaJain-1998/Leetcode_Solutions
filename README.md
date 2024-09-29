@@ -190,6 +190,7 @@ This folder includes the leetcode solutions.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
