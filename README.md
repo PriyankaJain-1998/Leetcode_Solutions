@@ -114,6 +114,7 @@ This folder includes the leetcode solutions.
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -150,6 +151,7 @@ This folder includes the leetcode solutions.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
 |  |
