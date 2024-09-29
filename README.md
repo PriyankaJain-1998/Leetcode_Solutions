@@ -274,6 +274,7 @@ This folder includes the leetcode solutions.
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1283-reformat-date) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -421,6 +422,7 @@ This folder includes the leetcode solutions.
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
@@ -538,5 +540,6 @@ This folder includes the leetcode solutions.
 ## Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
