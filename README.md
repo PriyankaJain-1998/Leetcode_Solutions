@@ -193,6 +193,7 @@ This folder includes the leetcode solutions.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [2481-strictly-palindromic-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3371-harshad-number) |
 ## Bit Manipulation
@@ -236,6 +237,7 @@ This folder includes the leetcode solutions.
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2481-strictly-palindromic-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Dynamic Programming
@@ -256,6 +258,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
+| [2481-strictly-palindromic-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
