@@ -110,6 +110,7 @@ This folder includes the leetcode solutions.
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1646-kth-missing-positive-number) |
+| [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -435,6 +436,7 @@ This folder includes the leetcode solutions.
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -496,6 +498,7 @@ This folder includes the leetcode solutions.
 | [0724-find-pivot-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Binary Search Tree
