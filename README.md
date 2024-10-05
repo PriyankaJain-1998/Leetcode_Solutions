@@ -116,6 +116,7 @@ This folder includes the leetcode solutions.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2341-count-prefixes-of-a-given-string) |
