@@ -117,6 +117,7 @@ This folder includes the leetcode solutions.
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
@@ -444,6 +445,7 @@ This folder includes the leetcode solutions.
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -494,6 +496,7 @@ This folder includes the leetcode solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
