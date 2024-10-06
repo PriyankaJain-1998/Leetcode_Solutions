@@ -116,6 +116,7 @@ This folder includes the leetcode solutions.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -177,6 +178,7 @@ This folder includes the leetcode solutions.
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
+| [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -567,6 +569,7 @@ This folder includes the leetcode solutions.
 ## Greedy
 |  |
 | ------- |
+| [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2487-optimal-partition-of-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2487-optimal-partition-of-string) |
 ## Enumeration
