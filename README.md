@@ -116,6 +116,7 @@ This folder includes the leetcode solutions.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2181-smallest-index-with-equal-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
@@ -162,6 +163,7 @@ This folder includes the leetcode solutions.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -579,5 +581,6 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2146-check-if-word-can-be-placed-in-crossword](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
