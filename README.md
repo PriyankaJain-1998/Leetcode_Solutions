@@ -116,6 +116,7 @@ This folder includes the leetcode solutions.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2181-smallest-index-with-equal-value) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
 | [2261-all-divisions-with-the-highest-score-of-a-binary-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2261-all-divisions-with-the-highest-score-of-a-binary-array) |
