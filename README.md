@@ -116,6 +116,7 @@ This folder includes the leetcode solutions.
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2181-smallest-index-with-equal-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2181-smallest-index-with-equal-value) |
@@ -184,6 +185,7 @@ This folder includes the leetcode solutions.
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
@@ -334,6 +336,7 @@ This folder includes the leetcode solutions.
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Tree
@@ -578,6 +581,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2487-optimal-partition-of-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2487-optimal-partition-of-string) |
@@ -587,4 +591,8 @@ This folder includes the leetcode solutions.
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 <!---LeetCode Topics End-->
