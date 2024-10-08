@@ -309,6 +309,7 @@ This folder includes the leetcode solutions.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1660-thousand-separator) |
 | [1764-maximum-repeating-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1764-maximum-repeating-substring) |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1954-replace-all-digits-with-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -590,6 +591,7 @@ This folder includes the leetcode solutions.
 ## Greedy
 |  |
 | ------- |
+| [1858-latest-time-by-replacing-hidden-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
