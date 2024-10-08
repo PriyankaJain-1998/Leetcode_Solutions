@@ -210,6 +210,7 @@ This folder includes the leetcode solutions.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2481-strictly-palindromic-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -227,6 +228,7 @@ This folder includes the leetcode solutions.
 | [0476-number-complement](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -429,6 +431,7 @@ This folder includes the leetcode solutions.
 | [0258-add-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
