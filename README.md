@@ -309,6 +309,7 @@ This folder includes the leetcode solutions.
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1660-thousand-separator) |
 | [1764-maximum-repeating-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1764-maximum-repeating-substring) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1954-replace-all-digits-with-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -468,6 +469,7 @@ This folder includes the leetcode solutions.
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
@@ -569,6 +571,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
