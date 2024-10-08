@@ -3,7 +3,6 @@ class Solution:
         stack = []
         for i in s:
             stack.append(i)
-
             if "".join(stack[-len(part):]) == part: 
                 for i in range(len(part)): stack.pop()
             
