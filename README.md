@@ -313,6 +313,7 @@ This folder includes the leetcode solutions.
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1660-thousand-separator) |
+| [1714-rearrange-spaces-between-words](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1764-maximum-repeating-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
