@@ -109,6 +109,7 @@ This folder includes the leetcode solutions.
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -210,6 +211,7 @@ This folder includes the leetcode solutions.
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
@@ -271,6 +273,7 @@ This folder includes the leetcode solutions.
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1764-maximum-repeating-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
 |  |
@@ -546,6 +549,7 @@ This folder includes the leetcode solutions.
 | [0724-find-pivot-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
