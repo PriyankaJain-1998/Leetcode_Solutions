@@ -1,7 +1,7 @@
 class Solution:
     def numOfSubarrays(self, arr: List[int]) -> int:
         dp = [0]*len(arr)
-        dp[0] = arr[0]&1
+        dp[0] = arr[0]%2
         for i in range(1,len(arr)):
             if arr[i]%2!=0: dp[i]=i-dp[i-1]+1
             else: dp[i] = dp[i-1]
