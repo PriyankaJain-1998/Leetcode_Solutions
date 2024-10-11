@@ -315,6 +315,7 @@ This folder includes the leetcode solutions.
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1542-consecutive-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1542-consecutive-characters) |
 | [1543-simplified-fractions](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1543-simplified-fractions) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
