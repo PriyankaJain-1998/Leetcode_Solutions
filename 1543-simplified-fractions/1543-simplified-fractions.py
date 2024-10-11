@@ -12,12 +12,5 @@ class Solution:
                         fractions.append(str(numerator)+"/"+str(denominator))
                 denominator+=1
             numerator+=1
-            print(denominator)
-        print(fractions)
 
         return fractions
-
-
-
-
-        
