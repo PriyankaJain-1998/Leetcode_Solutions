@@ -313,6 +313,7 @@ This folder includes the leetcode solutions.
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1660-thousand-separator) |
@@ -549,6 +550,7 @@ This folder includes the leetcode solutions.
 | [0724-find-pivot-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
