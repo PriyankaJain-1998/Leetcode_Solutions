@@ -85,6 +85,7 @@ This folder includes the leetcode solutions.
 | [0219-contains-duplicate-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0413-arithmetic-slices](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
@@ -271,6 +272,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0338-counting-bits) |
+| [0413-arithmetic-slices](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
@@ -536,6 +538,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
