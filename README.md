@@ -104,6 +104,7 @@ This folder includes the leetcode solutions.
 | [1319-unique-number-of-occurrences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1364-tuple-with-same-product](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -210,6 +211,7 @@ This folder includes the leetcode solutions.
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1543-simplified-fractions](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1543-simplified-fractions) |
@@ -443,6 +445,7 @@ This folder includes the leetcode solutions.
 | [0258-add-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
