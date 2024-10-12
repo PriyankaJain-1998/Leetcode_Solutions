@@ -100,6 +100,7 @@ This folder includes the leetcode solutions.
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1249-snapshot-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -158,6 +159,7 @@ This folder includes the leetcode solutions.
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1249-snapshot-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1249-snapshot-array) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -486,6 +488,7 @@ This folder includes the leetcode solutions.
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1249-snapshot-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1249-snapshot-array) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -610,6 +613,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [1249-snapshot-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1249-snapshot-array) |
 ## Queue
 |  |
 | ------- |
