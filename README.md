@@ -86,6 +86,7 @@ This folder includes the leetcode solutions.
 | [0219-contains-duplicate-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0413-arithmetic-slices](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
@@ -186,6 +187,7 @@ This folder includes the leetcode solutions.
 | [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0389-find-the-difference) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
@@ -656,4 +658,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1203-print-in-order) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
