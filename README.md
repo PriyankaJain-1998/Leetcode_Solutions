@@ -122,6 +122,7 @@ This folder includes the leetcode solutions.
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
