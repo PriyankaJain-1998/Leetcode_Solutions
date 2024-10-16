@@ -540,6 +540,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1916-find-center-of-star-graph](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1916-find-center-of-star-graph) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
 |  |
