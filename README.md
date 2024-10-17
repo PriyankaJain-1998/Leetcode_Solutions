@@ -100,6 +100,7 @@ This folder includes the leetcode solutions.
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1249-snapshot-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1249-snapshot-array) |
@@ -174,6 +175,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
+| [1036-rotting-oranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
@@ -483,6 +485,7 @@ This folder includes the leetcode solutions.
 | [0279-perfect-squares](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1036-rotting-oranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Hash Table
