@@ -82,6 +82,7 @@ This folder includes the leetcode solutions.
 | [0136-single-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0228-summary-ranges) |
@@ -174,6 +175,7 @@ This folder includes the leetcode solutions.
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -420,6 +422,7 @@ This folder includes the leetcode solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
@@ -482,6 +485,7 @@ This folder includes the leetcode solutions.
 | [0111-minimum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0404-sum-of-left-leaves](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -541,6 +545,7 @@ This folder includes the leetcode solutions.
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 ## Graph
