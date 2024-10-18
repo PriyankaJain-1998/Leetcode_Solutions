@@ -100,6 +100,7 @@ This folder includes the leetcode solutions.
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
+| [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -197,6 +198,7 @@ This folder includes the leetcode solutions.
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -223,6 +225,7 @@ This folder includes the leetcode solutions.
 | [0441-arranging-coins](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
@@ -560,6 +563,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2803-modify-graph-edge-weights](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2803-modify-graph-edge-weights) |
@@ -607,10 +611,12 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## String Matching
 |  |
 | ------- |
@@ -679,4 +685,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0274-h-index) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
