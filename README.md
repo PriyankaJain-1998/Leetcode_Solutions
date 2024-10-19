@@ -86,6 +86,7 @@ This folder includes the leetcode solutions.
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0228-summary-ranges) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0413-arithmetic-slices](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
@@ -158,6 +159,7 @@ This folder includes the leetcode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0441-arranging-coins) |
@@ -177,6 +179,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [1036-rotting-oranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -616,6 +619,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
 |  |
