@@ -250,6 +250,7 @@ This folder includes the leetcode solutions.
 | [2481-strictly-palindromic-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3371-harshad-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3371-harshad-number) |
 ## Bit Manipulation
 |  |
@@ -380,6 +381,7 @@ This folder includes the leetcode solutions.
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2487-optimal-partition-of-string) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
 ## Backtracking
@@ -666,6 +668,7 @@ This folder includes the leetcode solutions.
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Design
 |  |
 | ------- |
