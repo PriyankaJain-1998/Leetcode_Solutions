@@ -224,6 +224,7 @@ This folder includes the leetcode solutions.
 | [0007-reverse-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0231-power-of-two) |
@@ -303,6 +304,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0338-counting-bits) |
@@ -406,6 +408,7 @@ This folder includes the leetcode solutions.
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -460,6 +463,7 @@ This folder includes the leetcode solutions.
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -627,6 +631,7 @@ This folder includes the leetcode solutions.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
