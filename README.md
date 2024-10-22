@@ -224,6 +224,7 @@ This folder includes the leetcode solutions.
 | [0007-reverse-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -304,6 +305,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0279-perfect-squares](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0279-perfect-squares) |
@@ -317,6 +319,7 @@ This folder includes the leetcode solutions.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
