@@ -148,6 +148,7 @@ This folder includes the leetcode solutions.
 | [2398-check-if-matrix-is-x-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -304,6 +305,7 @@ This folder includes the leetcode solutions.
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2442-number-of-arithmetic-triplets](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2481-strictly-palindromic-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -572,6 +574,7 @@ This folder includes the leetcode solutions.
 | [2427-first-letter-to-appear-twice](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2487-optimal-partition-of-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2487-optimal-partition-of-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -723,6 +726,7 @@ This folder includes the leetcode solutions.
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2442-number-of-arithmetic-triplets](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
 ## Monotonic Stack
 |  |
 | ------- |
