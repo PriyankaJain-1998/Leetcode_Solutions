@@ -228,6 +228,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -345,6 +346,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
@@ -538,6 +540,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
