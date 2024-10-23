@@ -229,6 +229,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0066-plus-one) |
