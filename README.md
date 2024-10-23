@@ -349,6 +349,7 @@ This folder includes the leetcode solutions.
 | [0013-roman-to-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0139-word-break) |
