@@ -271,6 +271,7 @@ This folder includes the leetcode solutions.
 | [1054-complement-of-base-10-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [2427-first-letter-to-appear-twice](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
@@ -387,6 +388,7 @@ This folder includes the leetcode solutions.
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2391-strong-password-checker-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2391-strong-password-checker-ii) |
+| [2427-first-letter-to-appear-twice](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2487-optimal-partition-of-string) |
@@ -564,6 +566,7 @@ This folder includes the leetcode solutions.
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2487-optimal-partition-of-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2487-optimal-partition-of-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -683,6 +686,7 @@ This folder includes the leetcode solutions.
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2427-first-letter-to-appear-twice](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Design
 |  |
