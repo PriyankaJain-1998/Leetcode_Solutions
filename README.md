@@ -92,6 +92,7 @@ This folder includes the leetcode solutions.
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
@@ -307,6 +308,7 @@ This folder includes the leetcode solutions.
 | [0151-reverse-words-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
