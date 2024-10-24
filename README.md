@@ -133,6 +133,7 @@ This folder includes the leetcode solutions.
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
@@ -263,6 +264,7 @@ This folder includes the leetcode solutions.
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2481-strictly-palindromic-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
