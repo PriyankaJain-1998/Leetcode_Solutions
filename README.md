@@ -391,6 +391,7 @@ This folder includes the leetcode solutions.
 | [0551-student-attendance-record-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
+| [0742-to-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
