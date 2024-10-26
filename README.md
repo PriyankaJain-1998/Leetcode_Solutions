@@ -116,6 +116,7 @@ This folder includes the leetcode solutions.
 | [1306-minimum-absolute-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1325-path-with-maximum-probability](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1325-path-with-maximum-probability) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1364-tuple-with-same-product](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -255,6 +256,7 @@ This folder includes the leetcode solutions.
 | [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1086-divisor-game) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -776,6 +778,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Bucket Sort
 |  |
 | ------- |
