@@ -7,11 +7,9 @@ class Solution:
         #     if temp_s!=slope: return False
         # return True
 
-        
-        first_point = coordinates[0]
-        second_point = coordinates[1]
-        x1, y1 = first_point
-        x2, y2 = second_point
+ 
+        x1, y1 = coordinates[0][0],coordinates[0][1]
+        x2, y2 = coordinates[1][0],coordinates[1][1]
         y_coord, x_coord = (y2 - y1), (x2 - x1)
         for point in coordinates[2:]:
             x, y = point
