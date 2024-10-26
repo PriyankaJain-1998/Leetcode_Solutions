@@ -12,10 +12,10 @@ class Solution:
         second_point = coordinates[1]
         x1, y1 = first_point
         x2, y2 = second_point
-        
+        y_coord, x_coord = (y2 - y1), (x2 - x1)
         for point in coordinates[2:]:
             x, y = point
-            if (x - x1) * (y2 - y1) != (y - y1) * (x2 - x1):
+            if (x - x1) * y_coord != (y - y1) * x_coord:
                 return False
               
         return True
