@@ -134,6 +134,7 @@ This folder includes the leetcode solutions.
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
+| [1848-sum-of-unique-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -597,6 +598,7 @@ This folder includes the leetcode solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1848-sum-of-unique-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1904-second-largest-digit-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -728,6 +730,7 @@ This folder includes the leetcode solutions.
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [1364-tuple-with-same-product](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
+| [1848-sum-of-unique-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2372-rearrange-characters-to-make-target-string) |
