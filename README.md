@@ -106,6 +106,7 @@ This folder includes the leetcode solutions.
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
+| [0932-monotonic-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0932-monotonic-array) |
 | [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
