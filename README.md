@@ -128,6 +128,7 @@ This folder includes the leetcode solutions.
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -228,6 +229,7 @@ This folder includes the leetcode solutions.
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1488-sort-integers-by-the-power-value](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1488-sort-integers-by-the-power-value) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
