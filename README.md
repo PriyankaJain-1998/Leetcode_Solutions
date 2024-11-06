@@ -163,6 +163,7 @@ This folder includes the leetcode solutions.
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3311-ant-on-the-boundary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3463-alternating-groups-i) |
@@ -559,6 +560,7 @@ This folder includes the leetcode solutions.
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [3311-ant-on-the-boundary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -695,6 +697,7 @@ This folder includes the leetcode solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [3311-ant-on-the-boundary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Binary Search Tree
 |  |
 | ------- |
