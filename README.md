@@ -77,6 +77,7 @@ This folder includes the leetcode solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -213,6 +214,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -323,6 +325,7 @@ This folder includes the leetcode solutions.
 | [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
