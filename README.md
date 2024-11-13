@@ -444,6 +444,7 @@ This folder includes the leetcode solutions.
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2487-optimal-partition-of-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3379-score-of-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3379-score-of-a-string) |
@@ -468,6 +469,7 @@ This folder includes the leetcode solutions.
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3447-clear-digits) |
 ## Tree
 |  |
@@ -568,6 +570,7 @@ This folder includes the leetcode solutions.
 | [2428-equal-row-and-column-pairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2470-removing-stars-from-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3311-ant-on-the-boundary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3311-ant-on-the-boundary) |
 | [3447-clear-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3447-clear-digits) |
 ## Breadth-First Search
