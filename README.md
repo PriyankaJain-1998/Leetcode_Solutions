@@ -422,6 +422,7 @@ This folder includes the leetcode solutions.
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1660-thousand-separator) |
+| [1666-make-the-string-great](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1666-make-the-string-great) |
 | [1714-rearrange-spaces-between-words](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1714-rearrange-spaces-between-words) |
 | [1764-maximum-repeating-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1858-latest-time-by-replacing-hidden-digits) |
@@ -467,6 +468,7 @@ This folder includes the leetcode solutions.
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1666-make-the-string-great](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2128-reverse-prefix-of-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2128-reverse-prefix-of-word) |
