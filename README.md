@@ -411,6 +411,7 @@ This folder includes the leetcode solutions.
 | [0742-to-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0812-rotate-string) |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1260-day-of-the-year](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1283-reformat-date) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -468,6 +469,7 @@ This folder includes the leetcode solutions.
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1666-make-the-string-great) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
