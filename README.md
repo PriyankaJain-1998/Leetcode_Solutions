@@ -100,6 +100,7 @@ This folder includes the leetcode solutions.
 | [0413-arithmetic-slices](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0413-arithmetic-slices) |
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +185,7 @@ This folder includes the leetcode solutions.
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -469,6 +471,7 @@ This folder includes the leetcode solutions.
 | [0227-basic-calculator-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -809,6 +812,7 @@ This folder includes the leetcode solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Interactive
 |  |
@@ -831,4 +835,8 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
