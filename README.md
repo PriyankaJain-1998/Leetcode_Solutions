@@ -101,6 +101,7 @@ This folder includes the leetcode solutions.
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -472,6 +473,7 @@ This folder includes the leetcode solutions.
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -617,6 +619,7 @@ This folder includes the leetcode solutions.
 | [0290-word-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
@@ -813,6 +816,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 ## Interactive
 |  |
