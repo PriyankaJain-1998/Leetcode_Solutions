@@ -8,11 +8,6 @@ class Solution:
             stack.append(nums2[i])
         for ele in stack:
             nums2_map[ele]=-1
-        print(nums2_map)
         for i in nums1:
             ans.append(nums2_map[i])
-
-        print(ans)
         return ans
-
-
