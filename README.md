@@ -110,6 +110,7 @@ This folder includes the leetcode solutions.
 | [0645-set-mismatch](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0724-find-pivot-index) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0837-most-common-word) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
@@ -234,6 +235,7 @@ This folder includes the leetcode solutions.
 | [0594-longest-harmonious-subsequence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1256-rank-transform-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1256-rank-transform-of-an-array) |
