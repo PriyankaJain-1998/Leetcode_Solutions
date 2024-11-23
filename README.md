@@ -273,6 +273,7 @@ This folder includes the leetcode solutions.
 | [0258-add-digits](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -329,6 +330,7 @@ This folder includes the leetcode solutions.
 | [0143-reorder-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
