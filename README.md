@@ -302,6 +302,7 @@ This folder includes the leetcode solutions.
 | [3321-type-of-triangle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3371-harshad-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3371-harshad-number) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -827,6 +828,7 @@ This folder includes the leetcode solutions.
 | [2146-check-if-word-can-be-placed-in-crossword](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2146-check-if-word-can-be-placed-in-crossword) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2442-number-of-arithmetic-triplets](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Monotonic Stack
 |  |
 | ------- |
