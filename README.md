@@ -145,6 +145,7 @@ This folder includes the leetcode solutions.
 | [1694-make-sum-divisible-by-p](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -722,6 +723,7 @@ This folder includes the leetcode solutions.
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1755-defuse-the-bomb](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1755-defuse-the-bomb) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
