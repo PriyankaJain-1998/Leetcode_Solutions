@@ -153,6 +153,7 @@ This folder includes the leetcode solutions.
 | [1950-sign-of-the-product-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2035-count-sub-islands) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -249,6 +250,7 @@ This folder includes the leetcode solutions.
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2117-find-original-array-from-doubled-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2245-destroying-asteroids](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2245-destroying-asteroids) |
@@ -724,6 +726,7 @@ This folder includes the leetcode solutions.
 | [1430-find-the-k-beauty-of-a-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1755-defuse-the-bomb) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2478-longest-nice-subarray) |
