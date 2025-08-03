@@ -4,6 +4,5 @@ class Solution:
             l = len(s)
             s = s.replace("()",'').replace("[]",'').replace("{}",'')
             if len(s)==l: return False
-
         return True
         
