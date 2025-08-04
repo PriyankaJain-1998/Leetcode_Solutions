@@ -87,6 +87,7 @@ This folder includes the leetcode solutions.
 | [0119-pascals-triangle-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0139-word-break) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -190,6 +191,7 @@ This folder includes the leetcode solutions.
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
@@ -354,6 +356,7 @@ This folder includes the leetcode solutions.
 | [0143-reorder-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
