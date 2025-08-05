@@ -78,6 +78,7 @@ This folder includes the leetcode solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -347,6 +348,7 @@ This folder includes the leetcode solutions.
 | ------- |
 | [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -377,6 +379,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0119-pascals-triangle-ii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0119-pascals-triangle-ii) |
@@ -485,6 +488,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -845,6 +849,7 @@ This folder includes the leetcode solutions.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2123-the-number-of-weak-characters-in-the-game) |
