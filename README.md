@@ -351,6 +351,7 @@ This folder includes the leetcode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0018-4sum) |
@@ -386,6 +387,7 @@ This folder includes the leetcode solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
@@ -420,6 +422,7 @@ This folder includes the leetcode solutions.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
