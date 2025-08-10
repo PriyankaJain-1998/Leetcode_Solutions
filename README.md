@@ -125,6 +125,7 @@ This folder includes the leetcode solutions.
 | [1014-k-closest-points-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1014-k-closest-points-to-origin) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1036-rotting-oranges](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -608,6 +609,7 @@ This folder includes the leetcode solutions.
 | [0412-fizz-buzz](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0657-robot-return-to-origin) |
 | [0906-walking-robot-simulation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0906-walking-robot-simulation) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1682-most-visited-sector-in-a-circular-track) |
