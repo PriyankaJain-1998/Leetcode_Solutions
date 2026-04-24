@@ -157,6 +157,7 @@ This folder includes the leetcode solutions.
 | [1833-find-the-highest-altitude](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -614,6 +615,7 @@ This folder includes the leetcode solutions.
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1682-most-visited-sector-in-a-circular-track](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1682-most-visited-sector-in-a-circular-track) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1929-concatenation-of-array](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [1935-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/1935-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
