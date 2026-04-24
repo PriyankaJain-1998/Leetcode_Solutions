@@ -108,6 +108,7 @@ This folder includes the leetcode solutions.
 | [0419-battleships-in-a-board](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0419-battleships-in-a-board) |
 | [0436-find-right-interval](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/PriyankaJain-1998/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
